@@ -20,7 +20,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-<img src=https://imgur.com/a/gRsCyS7 width=250><br>
+<img src=https://media0.giphy.com/media/FLethajJtUuJeOfynR/giphy.gif width=250><br>
 
 ### Notes
 While trying to start up the emulator and install the app during the implementation of network requests, the emulator misbehaved becuase they API version (30) was not supported by the imported libraries. This was resolved by creating and using a new emulator with the API level 28.
